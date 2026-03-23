@@ -8,6 +8,10 @@
  - Graphic Design Assistant 🎨
  - English level: B2 (MCER) 🇺🇸
  - Spanish level: native language 🇪🇸
+
+## Personal description
+
+I'm a Systems Engineer with auxiliary training in Graphic Design, recognized for responsibility and teamwork. Currently working mainly with Python, as well as JavaScript, HTML, and Git projects. I aim to expand my software knowledge, optimize processes, and contribute effectively to collaborative projects.
  
 ## Photo
 
