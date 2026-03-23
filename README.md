@@ -4,8 +4,8 @@
 
  - System engineer💻
  - Graphic Designer 🎨
- - English level: B2+ (MCER) 🦅 
- - Spanish level: native language
+ - English level: B2+ (MCER) 🇺🇸
+ - Spanish level: native language 🇪🇸
 ## [Photo]
 <img width="250" height="500" alt="image" src=WhatsApp%20Image%202026-03-16%20at%204.07.49%20PM.jpeg/>
 
