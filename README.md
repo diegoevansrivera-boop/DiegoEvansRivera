@@ -1,10 +1,11 @@
 <img width="250" height="500" alt="image" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM2Ym9jYjdkbDZkYXd1OGdwZDV6czh0bWhpcWF2cTE3c2Nwdmh5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1JSirM9CWto4poulJi/giphy.gif>
 
-## Diego Rivera
+## Diego Evans Rivera Arteta
 
- - System engineer
- - Graphic Designer
-
+ - System engineer💻
+ - Graphic Designer 🎨
+ - English level: B2+ (MCER) 🦅 
+ - Spanish level: native language
 ## [Photo]
 <img width="250" height="500" alt="image" src=WhatsApp%20Image%202026-03-16%20at%204.07.49%20PM.jpeg/>
 
