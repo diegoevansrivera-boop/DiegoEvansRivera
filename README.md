@@ -3,16 +3,19 @@
 ## Diego Evans Rivera Arteta
 
  - System engineer💻
- - Graphic Designer 🎨
+ - Graphic Design Assistant 🎨
  - English level: B2+ (MCER) 🇺🇸
  - Spanish level: native language 🇪🇸
-## [Photo]
+ 
+## Photo
+
 <img width="250" height="500" alt="image" src=WhatsApp%20Image%202026-03-16%20at%204.07.49%20PM.jpeg/>
 
-## learning this days:
+## Currently learning:
 - JavaScript
 - Git
 - Python
+- HTML
 
 ## Stadistics
 -![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoevansrivera-boop)
